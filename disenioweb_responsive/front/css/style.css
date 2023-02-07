@@ -1,0 +1,22 @@
+.bg-transparent{
+    background-color: transparent;
+    border: none;
+    border-bottom: 2px solid blue;
+    border-left: 2px solid blue;
+    border-right: 2px solid blue;
+    border-top: none;
+    border-radius: 0px;
+    border-end-end-radius:10px ;
+    border-bottom-left-radius:10px ;
+}
+.border_{
+    border-radius: 10px;
+}
+
+body{
+    background-color: rgb(241, 241, 241);
+}
+.difuminado{
+    backdrop-filter: blur(15px);
+    background-color: rgba(255, 255, 255, 0.1);
+}
